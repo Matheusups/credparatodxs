@@ -1,5 +1,5 @@
 # credparatodxs
-é um protótipo simples de aplicação de empréstimo com base em crédito do serasa.
+é um protótipo simples de aplicação de empréstimo com base no fornecimento de dados como score serasa e cpf.
 
 ## Bibliotecas Usadas
 
